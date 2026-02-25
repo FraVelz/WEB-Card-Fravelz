@@ -1,8 +1,10 @@
 # WEB Card Fravelz
 
-Tarjeta de perfil web personal con video de fondo, animaciones de caracteres chinos y enlaces a redes sociales.
+[English Version](./README.EN.md)
 
-![Screenshot](resources/screenshot.png)
+![Captura de pantallla](resources/screenshot.png)
+
+Tarjeta de perfil web personal con video de fondo, animaciones de caracteres chinos y enlaces a redes sociales.
 
 ## Características
 
@@ -13,7 +15,7 @@ Tarjeta de perfil web personal con video de fondo, animaciones de caracteres chi
 
 ## Estructura del proyecto
 
-```
+```txt
 ├── index.html          # Página principal
 ├── resources/          # Recursos (avatar, video, logo, screenshot)
 ├── scripts/            # JavaScript (controles de video, animación chino)
